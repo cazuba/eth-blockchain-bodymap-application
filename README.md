@@ -45,3 +45,6 @@ Link: [https://sepolia.etherscan.io/address/0x8bC11D86Ca8883C7785A37FB03aD70875A
 ### `bodymap-react`: This folder contains the UI application
 
 ### `bodymap-server`: This folder contains the Backend API and the ETH Smart Contracts.
+
+## Credits
+- Pluralsight course: [Blockchain Fundamentals](https://app.pluralsight.com/library/courses/fundamentals-blockchain) By [Jan-Erik Sandberg](https://app.pluralsight.com/profile/author/janerik-sandberg)
