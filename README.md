@@ -11,7 +11,9 @@ Link: [https://sepolia.etherscan.io/address/0x8bC11D86Ca8883C7785A37FB03aD70875A
 <img width="1506" height="986" alt="Screenshot 2025-11-19 at 7 34 14 AM" src="https://github.com/user-attachments/assets/652e5a7a-20fb-4fc5-a5ed-f13674048734" />
 
 ## Requirements
-- NodeJS v18.20.8 or greater
+- NodeJS `v18.20.8`, or greater.
+- Solidity `0.8.19`
+- Web3 `1.8.2`
 
 ## Starting the application
 
